@@ -4,8 +4,6 @@ This is a simple responsive profile card project built with HTML and CSS. It was
 
 ## Preview
 
-![Preview](./assets/images/profile.png)
-
 ## Features
 
 - Responsive layout for different screen sizes
